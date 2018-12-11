@@ -1,3 +1,4 @@
-# python-http
+# haskell csv db
 
-Simple Hello World Python HTTP server
+Simple file db to fast read csv files and return filtered datasets
+runs as a http server
